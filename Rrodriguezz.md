@@ -21,3 +21,4 @@ I have experence in sales and now I am doing a **bootcam** to be a *programer fu
 | cl      |  is the comand clear his funtion is clean the terminal |
 | mvny | is the comand mvn use 18 his funtion is use the version 18 of node js |
 ricardo git 1
+ricardo main 
