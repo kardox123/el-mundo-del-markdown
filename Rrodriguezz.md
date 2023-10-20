@@ -20,9 +20,5 @@ I have experence in sales and now I am doing a **bootcam** to be a *programer fu
 | ------- |  ---------- |
 | cl      |  is the comand clear his funtion is clean the terminal |
 | mvny | is the comand mvn use 18 his funtion is use the version 18 of node js |
-**ricardo git 1**
-*ricardo main* 
-#ricky multifasetico esta aqui#
-para ver si ya entendimos aqui pondre
-main  
-ahora veremos si puedo usar otro rama
+ricardo git 1
+ahora haremos merge y para que no surja conflicto borre mucho contenido para que se asemegen lo mas posible 
