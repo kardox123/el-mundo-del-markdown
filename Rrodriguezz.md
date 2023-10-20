@@ -10,7 +10,7 @@ I have experence in sales and now I am doing a **bootcam** to be a *programer fu
 | Comands | Description |
 | ------- | ----------- |
 |  cal    |  show a calendar |
-|   ls    |  show the elements hawe a directiory|
+|   ls    |  show the elements have a directiory|
 | whoiam  | show which is the profile |
 | date    | show the hour ,the day of the week and the month |
 |   pwd   | show where are you |
