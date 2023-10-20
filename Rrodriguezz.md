@@ -23,3 +23,5 @@ I have experence in sales and now I am doing a **bootcam** to be a *programer fu
 **ricardo git 1**
 *ricardo main* 
 #ricky multifasetico esta aqui#
+para ver si ya entendimos aqui pondre
+main  
